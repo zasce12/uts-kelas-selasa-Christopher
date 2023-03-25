@@ -1,0 +1,375 @@
+.everywhere3 {
+  color: #fff;
+}
+.nft-everywhere3 {
+  position: absolute;
+  top: 24px;
+  left: 88px;
+  font-size: 24px;
+  font-weight: 600;
+  color: #c93d8d;
+}
+.explore5 {
+  position: relative;
+  font-weight: 600;
+}
+.stats3 {
+  cursor: pointer;
+}
+.about-me2 {
+  color: #fff;
+}
+ 
+.stats3 {
+  position: relative;
+  font-weight: 500;
+}
+.explore-parent1,
+.login-frame {
+  display: flex;
+  flex-direction: row;
+}
+.login-frame {
+  border-radius: 10px;
+  background-color: rgba(218, 218, 218, 0.3);
+  padding: 8px 32px;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.explore-parent1 {
+  position: absolute;
+  top: 24px;
+  left: 954px;
+  align-items: center;
+  justify-content: center;
+  gap: 36px;
+}
+.explore6 {
+  position: absolute;
+  top: 116px;
+  left: 572px;
+  font-size: 36px;
+  font-weight: 600;
+}
+.item-child6 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 10px;
+  background-color: #1f0443;
+  width: 378px;
+  height: 621px;
+}
+.price4 {
+  position: absolute;
+  top: 440px;
+  left: 310px;
+  font-size: 18px;
+  font-weight: 500;
+  color: rgba(255, 255, 255, 0.8);
+  text-align: right;
+}
+.frame-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 10px;
+  background-color: #c93d8d;
+  width: 331px;
+  height: 50px;
+}
+.buy-now4 {
+  position: absolute;
+  top: 10px;
+  left: 122px;
+  font-weight: 600;
+}
+.rectangle-parent1 {
+  position: absolute;
+  top: 547px;
+  left: 24px;
+  width: 331px;
+  height: 50px;
+}
+.ethereum-parent15,
+.item-child7 {
+  position: absolute;
+  top: 513px;
+  left: 290px;
+}
+.ethereum-parent15 {
+  top: 475px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 2px;
+  text-align: right;
+}
+.item18 {
+  position: relative;
+  width: 378px;
+  height: 621px;
+  flex-shrink: 0;
+}
+.item-parent {
+  position: absolute;
+  top: 206px;
+  left: 572px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 24px;
+}
+.quino-ai {
+  position: absolute;
+  top: 440px;
+  left: 24px;
+  font-size: 18px;
+  font-weight: 500;
+  color: rgba(255, 255, 255, 0.8);
+}
+.unsplashyzfigymjdii-icon {
+  position: absolute;
+  top: 24px;
+  left: 24px;
+  border-radius: 10px;
+  width: 330px;
+  height: 400px;
+  object-fit: cover;
+}
+.double-face-art {
+  position: absolute;
+  top: 475px;
+  left: 24px;
+  font-weight: 600;
+  display: inline-block;
+  width: 194px;
+}
+.item-container,
+.item-group {
+  position: absolute;
+  top: 863px;
+  left: 572px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 24px;
+}
+.item-container {
+  top: 1520px;
+}
+.nft-everywhere4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-weight: 600;
+}
+.explore7 {
+  position: relative;
+  font-size: 20px;
+  font-weight: 600;
+  color: #c93d8d;
+}
+.account-group,
+.facebook-group,
+.frame-group {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 20px;
+}
+.facebook-group,
+.frame-group {
+  flex-direction: row;
+  gap: 12px;
+}
+.frame-group {
+  position: absolute;
+  top: 0;
+  left: 314px;
+  gap: 68px;
+  font-size: 18px;
+  color: rgba(255, 255, 255, 0.8);
+}
+.footer2 {
+  position: absolute;
+  top: 2221px;
+  left: 88px;
+  width: 1264px;
+  height: 218px;
+  font-size: 24px;
+  color: #c93d8d;
+}
+.background {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 10px;
+  background-color: #1f0443;
+  width: 459px;
+  height: 536px;
+}
+.chevron-double-left-icon {
+  position: absolute;
+  top: 42px;
+  left: 407px;
+  width: 36px;
+  height: 36px;
+  overflow: hidden;
+}
+.input-child,
+.price11 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.price11 {
+  font-size: 24px;
+  font-weight: 600;
+  color: #fff;
+}
+.input-child {
+  border-radius: 10px;
+  background-color: #321655;
+  width: 170px;
+  height: 51px;
+}
+.div73 {
+  position: absolute;
+  top: 12px;
+  left: 12px;
+  font-weight: 500;
+}
+.input,
+.input1 {
+  position: absolute;
+  top: 52px;
+  left: 0;
+  width: 170px;
+  height: 51px;
+}
+.input1 {
+  left: 193px;
+}
+.floor-price,
+.highest-price {
+  position: absolute;
+  top: 111px;
+  left: 0;
+  font-weight: 500;
+  color: rgba(255, 255, 255, 0.8);
+}
+.highest-price {
+  left: 193px;
+  text-align: right;
+}
+.price10 {
+  position: absolute;
+  top: 272px;
+  left: 48px;
+  width: 363px;
+  height: 138px;
+  font-size: 18px;
+  color: rgba(255, 255, 255, 0.5);
+}
+.checkbox-icon {
+  position: relative;
+  width: 24px;
+  height: 24px;
+  flex-shrink: 0;
+  overflow: hidden;
+}
+.checkbox-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+}
+.category2,
+.category3 {
+  position: absolute;
+  top: 52px;
+  left: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.category3 {
+  left: 196px;
+}
+.btn-child,
+.categories {
+  position: absolute;
+  width: 363px;
+}
+.categories {
+  top: 120px;
+  left: 48px;
+  height: 128px;
+  color: rgba(255, 255, 255, 0.8);
+}
+.btn-child {
+  top: 0;
+  left: 0;
+  border-radius: 10px;
+  background-color: #c93d8d;
+  height: 50px;
+}
+.apply {
+  top: 10px;
+  left: 152px;
+  font-weight: 600;
+  display: inline-block;
+  width: 59.84px;
+}
+.apply,
+.btn,
+.filter1 {
+  position: absolute;
+}
+.btn {
+  top: 450px;
+  left: 48px;
+  width: 363px;
+  height: 50px;
+  text-align: center;
+}
+.filter1 {
+  top: 36px;
+  left: 104px;
+  font-size: 32px;
+  font-weight: 600;
+}
+.filter-variant-icon {
+  position: absolute;
+  top: 36px;
+  left: 48px;
+  width: 48px;
+  height: 48px;
+  overflow: hidden;
+}
+.filter {
+  position: absolute;
+  top: 116px;
+  left: 88px;
+  width: 459px;
+  height: 536px;
+}
+.explore4 {
+  position: relative;
+  background-color: #120227;
+  width: 100%;
+  height: 2523px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 20px;
+  color: #fff;
+  font-family: Poppins;
+}

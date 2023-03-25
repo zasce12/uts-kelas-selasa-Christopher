@@ -1,0 +1,653 @@
+.everywhere1 {
+  color: #fff;
+}
+.nft-everywhere1 {
+  position: absolute;
+  top: 24px;
+  left: 88px;
+  font-weight: 600;
+  color: #c93d8d;
+}
+.explore2 {
+  position: relative;
+  font-weight: 500;
+  cursor: pointer;
+}
+.stats1 {
+  position: relative;
+  font-weight: 600;
+}
+.login-container {
+  border-radius: 10px;
+  background-color: rgba(218, 218, 218, 0.3);
+  display: flex;
+  flex-direction: row;
+  padding: 8px 32px;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.explore-group {
+  position: absolute;
+  top: 24px;
+  left: 954px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 36px;
+  font-size: 20px;
+}
+.nft-everywhere2,
+.top-nfts {
+  position: absolute;
+  font-weight: 600;
+}
+.top-nfts {
+  top: 116px;
+  left: 88px;
+  font-size: 36px;
+}
+.nft-everywhere2 {
+  top: 0;
+  left: 0;
+}
+.explore-container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 20px;
+}
+.account {
+  position: relative;
+  font-size: 20px;
+  font-weight: 600;
+  color: #c93d8d;
+}
+.register {
+  position: relative;
+  font-weight: 500;
+  color: #fff;
+}
+.facebook-icon {
+  position: relative;
+  width: 24px;
+  height: 24px;
+  flex-shrink: 0;
+  overflow: hidden;
+}
+.facebook-parent,
+.frame-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 12px;
+}
+.frame-parent {
+  position: absolute;
+  top: 0;
+  left: 314px;
+  gap: 68px;
+  font-size: 18px;
+  color: rgba(255, 255, 255, 0.8);
+}
+.footer1 {
+  position: absolute;
+  top: 1062px;
+  left: 88px;
+  width: 1264px;
+  height: 218px;
+  color: #c93d8d;
+}
+.d {
+  left: 1047px;
+  font-weight: 600;
+}
+.d,
+.rank,
+.rank1 {
+  position: absolute;
+  top: 0;
+}
+.rank {
+  left: 886px;
+  font-weight: 600;
+}
+.rank1 {
+  left: 644px;
+}
+.rank1,
+.rank2,
+.rank3 {
+  font-weight: 600;
+}
+.rank2 {
+  position: absolute;
+  top: 0;
+  left: 322px;
+}
+.rank3 {
+  left: 163px;
+}
+.header1,
+.items2,
+.rank3 {
+  position: absolute;
+  top: 0;
+}
+.items2 {
+  left: 1194px;
+  font-weight: 600;
+}
+.header1 {
+  left: 0;
+  width: 1264px;
+  height: 36px;
+  font-size: 24px;
+}
+.div10,
+.div8,
+.div9 {
+  position: absolute;
+  top: 12px;
+  font-weight: 500;
+}
+.div8 {
+  left: 1042px;
+  color: #22ee98;
+}
+.div10,
+.div9 {
+  left: 1191px;
+}
+.div10 {
+  left: 880px;
+  color: #22ee98;
+}
+.ethereum-icon7 {
+  position: absolute;
+  top: 3px;
+  left: 0;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.div11 {
+  position: absolute;
+  top: 0;
+  left: 28px;
+  font-weight: 500;
+}
+.ethereum-parent5 {
+  position: absolute;
+  top: 12px;
+  left: 638px;
+  width: 134px;
+  height: 30px;
+}
+.alex-perez-parent,
+.ellipse-icon {
+  position: absolute;
+  top: 0;
+  height: 56px;
+}
+.ellipse-icon {
+  left: 0;
+  width: 56px;
+  object-fit: cover;
+}
+.alex-perez-parent {
+  left: 316px;
+  width: 165px;
+}
+.div12,
+.vector-icon {
+  position: absolute;
+  top: 8.33%;
+}
+.vector-icon {
+  height: 83.33%;
+  width: 83.33%;
+  right: 8.33%;
+  bottom: 8.33%;
+  left: 8.33%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.div12 {
+  left: 41.67%;
+  font-weight: 600;
+}
+.div13,
+.trophy-variant {
+  position: absolute;
+  left: 0;
+}
+.trophy-variant {
+  top: 4px;
+  width: 48px;
+  height: 48px;
+  overflow: hidden;
+  text-align: center;
+}
+.div13 {
+  top: 28px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 113px;
+  height: 28px;
+}
+.menu-up-icon {
+  position: absolute;
+  top: 0;
+  left: 39px;
+  width: 36px;
+  height: 36px;
+  overflow: hidden;
+}
+.item8,
+.parent {
+  position: absolute;
+  height: 56px;
+}
+.parent {
+  top: 0;
+  left: 157px;
+  width: 113px;
+  text-align: center;
+  font-size: 18px;
+  color: rgba(255, 255, 255, 0.5);
+}
+.item8 {
+  top: 54px;
+  left: 6px;
+  width: 1223px;
+}
+.div14,
+.jane-cooper {
+  position: absolute;
+  font-weight: 500;
+}
+.div14 {
+  top: 12px;
+  left: 1042px;
+  color: #ff1515;
+}
+.jane-cooper {
+  top: 13px;
+  left: 64px;
+}
+.jane-cooper-parent {
+  position: absolute;
+  top: 0;
+  left: 316px;
+  width: 194px;
+  height: 56px;
+}
+.div18,
+.item9 {
+  position: absolute;
+}
+.div18 {
+  top: 8.33%;
+  left: 37.5%;
+  font-weight: 600;
+}
+.item9 {
+  top: 128px;
+  left: 6px;
+  width: 1217px;
+  height: 56px;
+}
+.div22,
+.ethereum-parent7 {
+  position: absolute;
+  top: 12px;
+}
+.div22 {
+  left: 880px;
+  font-weight: 500;
+  color: #ff1515;
+}
+.ethereum-parent7 {
+  left: 638px;
+  width: 124px;
+  height: 30px;
+}
+.item10,
+.wade-warren-parent {
+  position: absolute;
+  top: 0;
+  left: 316px;
+  width: 203px;
+  height: 56px;
+}
+.item10 {
+  top: 202px;
+  left: 6px;
+  width: 1222px;
+}
+.div26,
+.div27 {
+  font-weight: 500;
+}
+.div26 {
+  position: absolute;
+  top: 12px;
+  left: 1025px;
+  color: #ff1515;
+}
+.div27 {
+  left: 1174px;
+}
+.div27,
+.div28,
+.ethereum-parent8 {
+  position: absolute;
+  top: 12px;
+}
+.div28 {
+  left: 863px;
+  font-weight: 500;
+  color: #ff1515;
+}
+.ethereum-parent8 {
+  left: 621px;
+  width: 125px;
+  height: 30px;
+}
+.cameron-williamson-parent {
+  position: absolute;
+  top: 0;
+  left: 299px;
+  width: 277px;
+  height: 56px;
+}
+.div30 {
+  position: absolute;
+  top: 14.29%;
+  left: 0;
+  font-weight: 600;
+  text-align: center;
+}
+.item11,
+.parent1 {
+  position: absolute;
+  height: 56px;
+}
+.parent1 {
+  top: 0;
+  left: 140px;
+  width: 113px;
+  text-align: center;
+  font-size: 18px;
+  color: rgba(255, 255, 255, 0.5);
+}
+.item11 {
+  top: 276px;
+  left: 23px;
+  width: 1206px;
+}
+.div32,
+.div33 {
+  font-weight: 500;
+}
+.div32 {
+  position: absolute;
+  top: 12px;
+  left: 1024px;
+  color: #ff1515;
+}
+.div33 {
+  left: 1173px;
+}
+.div33,
+.div34,
+.ethereum-parent9 {
+  position: absolute;
+  top: 12px;
+}
+.div34 {
+  left: 862px;
+  font-weight: 500;
+  color: #22ee98;
+}
+.ethereum-parent9 {
+  left: 620px;
+  width: 119px;
+  height: 30px;
+}
+.brooklyn-simmons-parent {
+  position: absolute;
+  top: 0;
+  left: 298px;
+  width: 252px;
+  height: 56px;
+}
+.group-icon {
+  height: 42.86%;
+  width: 1.98%;
+  top: 28.57%;
+  right: 82.85%;
+  bottom: 28.57%;
+  left: 15.17%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.div37,
+.group-icon,
+.item12 {
+  position: absolute;
+}
+.item12 {
+  top: 350px;
+  left: 24px;
+  width: 1210px;
+  height: 56px;
+}
+.div37 {
+  top: 12px;
+  left: 1024px;
+  font-weight: 500;
+  color: #22ee98;
+}
+.ethereum-parent10 {
+  position: absolute;
+  top: 12px;
+  left: 620px;
+  width: 122px;
+  height: 30px;
+}
+.guy-hawkins-parent {
+  top: 0;
+  left: 298px;
+  width: 194px;
+}
+.guy-hawkins-parent,
+.item13,
+.parent2 {
+  position: absolute;
+  height: 56px;
+}
+.parent2 {
+  top: 0;
+  left: 139px;
+  width: 113px;
+  text-align: center;
+  font-size: 18px;
+  color: rgba(255, 255, 255, 0.5);
+}
+.item13 {
+  top: 424px;
+  left: 25px;
+  width: 1204px;
+}
+.div43,
+.div44,
+.div45 {
+  position: absolute;
+  top: 12px;
+  font-weight: 500;
+}
+.div43 {
+  left: 1023px;
+  color: #ff1515;
+}
+.div44,
+.div45 {
+  left: 1172px;
+}
+.div45 {
+  left: 861px;
+  color: #22ee98;
+}
+.ethereum-parent11 {
+  position: absolute;
+  top: 12px;
+  left: 619px;
+  width: 119px;
+  height: 30px;
+}
+.robert-fox-parent {
+  position: absolute;
+  top: 0;
+  left: 297px;
+  width: 169px;
+  height: 56px;
+}
+.item-child5 {
+  height: 42.86%;
+  width: 1.99%;
+  top: 28.57%;
+  right: 82.86%;
+  bottom: 28.57%;
+  left: 15.15%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.div50,
+.item-child5,
+.item14 {
+  position: absolute;
+}
+.item14 {
+  top: 498px;
+  left: 27px;
+  width: 1205px;
+  height: 56px;
+}
+.div50 {
+  top: 12px;
+  left: 862px;
+  font-weight: 500;
+  color: #ff1515;
+}
+.ethereum-parent12 {
+  position: absolute;
+  top: 12px;
+  left: 620px;
+  width: 123px;
+  height: 30px;
+}
+.barone-llc-parent,
+.item15 {
+  position: absolute;
+  top: 0;
+  left: 298px;
+  width: 180px;
+  height: 56px;
+}
+.item15 {
+  top: 572px;
+  left: 27px;
+  width: 1206px;
+}
+.item16,
+.ralph-edwards-parent {
+  position: absolute;
+  top: 0;
+  left: 298px;
+  width: 214px;
+  height: 56px;
+}
+.item16 {
+  top: 646px;
+  left: 28px;
+  width: 1212px;
+}
+.div60,
+.div61,
+.div62 {
+  position: absolute;
+  top: 12px;
+  font-weight: 500;
+}
+.div60 {
+  left: 1028px;
+  color: #22ee98;
+}
+.div61,
+.div62 {
+  left: 1177px;
+}
+.div62 {
+  left: 866px;
+  color: #22ee98;
+}
+.ethereum-parent14 {
+  position: absolute;
+  top: 12px;
+  left: 624px;
+  width: 138px;
+  height: 30px;
+}
+.jerome-bell-parent {
+  top: 0;
+  left: 302px;
+  width: 182px;
+}
+.item17,
+.jerome-bell-parent,
+.parent5,
+.table {
+  position: absolute;
+  height: 56px;
+}
+.parent5 {
+  top: 0;
+  left: 143px;
+  width: 113px;
+  text-align: center;
+  font-size: 18px;
+  color: rgba(255, 255, 255, 0.5);
+}
+.item17,
+.table {
+  top: 720px;
+  left: 25px;
+  width: 1201px;
+}
+.table {
+  top: 206px;
+  left: 88px;
+  width: 1264px;
+  height: 776px;
+  font-size: 20px;
+}
+.stats-ranking {
+  position: relative;
+  background-color: #120227;
+  width: 100%;
+  height: 1360px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 24px;
+  color: #fff;
+  font-family: Poppins;
+}
